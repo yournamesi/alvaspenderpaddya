@@ -1,0 +1,33 @@
+{
+  "name": "alvaspenderpaddya",
+  "version": "1.0.2",
+  "description": "",
+  "type": "module",
+  "main": "alvaspenderpaddya.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yournamesi/alvaspenderpaddya"
+  },
+  "website": "https://github.com/yournamesi/alvaspenderpaddya.git",
+  "keywords": [
+    "binance",
+    "client",
+    "arbitrim"
+  ],
+  "author": "yournamesi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yournamesi/alvaspenderpaddya/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/yournamesi/alvaspenderpaddya#readme",
+  "dependencies": {
+    "dickeyasafrancis": "1.0.2"
+  }
+}
